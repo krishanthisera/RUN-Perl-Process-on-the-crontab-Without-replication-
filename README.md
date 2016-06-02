@@ -8,11 +8,12 @@ Check the existence of the given process and if it has,
 
 	    If that particular process is dead, It’ll start the particular process.
 Usage :
-	First grant the permission on the shell  script
+
+First grant the permission on the shell  script
 	
 		[root@localhost src]# chmod +x ./checkrun.sh
 	
-       Give your path to the perl file as a command line argument 
+Give your path to the perl file as a command line argument 
 	
 		[root@localhost src]# ./checkrun.sh /home/logger.pl
 
