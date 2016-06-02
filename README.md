@@ -1,4 +1,4 @@
-# RUN-Perl-Process-on-the-crontab-Without-relication-
+# RUN-Perl-Process-on-the-crontab-Without-replication
 
 Check the existence of the given process and if it has,
 
