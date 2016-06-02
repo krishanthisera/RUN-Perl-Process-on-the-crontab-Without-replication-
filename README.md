@@ -17,4 +17,4 @@ Give your path to the perl file as a command line argument
 	
 		[root@localhost src]# ./checkrun.sh /home/logger.pl
 
-You can avoid the replication problems when it's using on the crontab.
+
